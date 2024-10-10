@@ -1,5 +1,5 @@
 # About
-Hi there! I'm Pawan, a Full stack developer passionate about building robust and efficient applications. I'm currently immersed in learning CI/CD genkins.
+Hi there! I'm Pawan, a Full stack developer passionate about building robust and efficient applications. I'm currently immersed in learning CI/CD Jenkins.
 
 ## Skills
 - Backend Development: I possess a strong foundation in backend development, with knowldege of designing and implementing scalable and reliable systems.
